@@ -1,5 +1,5 @@
 function autoTab(obj) {
-    var pattern = new String("_-____-_____-_-__"); // กำหนดรูปแบบในนี้
+    var pattern = new String("_-____-_____-__-_"); // กำหนดรูปแบบในนี้
     var pattern_ex = new String("-"); // กำหนดสัญลักษณ์หรือเครื่องหมายที่ใช้แบ่งในนี้
     var returnText = new String("");
     var obj_l = obj.value.length;
