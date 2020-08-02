@@ -22,3 +22,11 @@
 .cou {
     color: #bb3939;
 }
+
+.bord{
+    border-style: solid;
+    border-color: #bb3939;
+    padding: 10px;
+    border-radius: 25px;
+      
+}
