@@ -21,9 +21,3 @@
 .cou{
     color: #bb3939;
 }
-
-.a{
-    background-image: -moz-linear-gradient(0deg, #e99d9d 0%, #fad9a8 100%);
-    background-image: -webkit-linear-gradient(0deg, #e99d9d 0%, #fad9a8 100%);
-    background-image: -ms-linear-gradient(0deg, #e99d9d 0%, #fad9a8 100%);
-}
