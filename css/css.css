@@ -1,0 +1,29 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right {
+    display: block;
+    margin-right: auto;
+  }
+.b{
+    height: 25px;
+    width: 150px;
+}
+
+.c{
+    height: 25px;
+    width: 150px;
+}
+
+.cou{
+    color: #bb3939;
+}
+
+.a{
+    background-image: -moz-linear-gradient(0deg, #e99d9d 0%, #fad9a8 100%);
+    background-image: -webkit-linear-gradient(0deg, #e99d9d 0%, #fad9a8 100%);
+    background-image: -ms-linear-gradient(0deg, #e99d9d 0%, #fad9a8 100%);
+}
